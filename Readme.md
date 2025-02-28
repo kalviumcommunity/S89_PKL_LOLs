@@ -22,5 +22,3 @@ Authentication: Firebase Auth or JWT (for user logins and submissions)
 
 # Why This Project?
 I chose this project because it combines entertainment and tech—making development fun while improving skills in frontend development, backend integration, and user interaction. Plus, working on features like upvoting systems and user submissions helps build real-world experience in creating dynamic web applications.
-
-
