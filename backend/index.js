@@ -4,6 +4,10 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 
+
+
+
+
 app.get('/ping', (req, res) => {
     try {
         res.status(200).send({msg:'pong'});
